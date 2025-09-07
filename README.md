@@ -30,7 +30,7 @@ A comprehensive web-based IDE for designing, visualizing, and testing zero-knowl
 
 ## Screenshots
 ![ZK Playground ](screenshots/midnight-ss-1.PNG)
-
+![ZK Playground ](screenshots/midnight-ss-2.PNG)
 ## 🚀 Getting Started
 
 ### Prerequisites
