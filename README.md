@@ -377,6 +377,9 @@ The application supports both light and dark themes with comprehensive color sch
 - [Midnight Compact Language Guide](https://docs.midnight.network/compact)
 - [Privacy-Preserving Smart Contracts](https://docs.midnight.network/contracts)
 
+## Video 
+https://www.loom.com/share/d81f0fbf67d345fa981e56348bbedca5?sid=4c475bdb-9c6e-4a4f-924b-fb65360e82ee
+
 ## 🤝 Contributing
 
 1. **Fork the repository**
