@@ -2,6 +2,7 @@
 
 A comprehensive web-based IDE for designing, visualizing, and testing zero-knowledge proof circuits using Midnight Networks and Midnight Compact Language. This interactive playground helps developers understand confidential computing, private data protection, and the building blocks of ZK proofs.
 
+
 ## 🌟 Features
 
 ### Interactive Circuit Designer
@@ -26,6 +27,9 @@ A comprehensive web-based IDE for designing, visualizing, and testing zero-knowl
 - **Privacy benefits** clearly explained for each use case
 - **Midnight Networks documentation** integration
 - **Dark/light theme support** for better user experience
+
+## Screenshots
+![ZK Playground ](screenshots/diagram.png)
 
 ## 🚀 Getting Started
 
