@@ -29,7 +29,7 @@ A comprehensive web-based IDE for designing, visualizing, and testing zero-knowl
 - **Dark/light theme support** for better user experience
 
 ## Screenshots
-![ZK Playground ](screenshots/diagram.png)
+![ZK Playground ](screenshots/midnight-ss-1.PNG)
 
 ## 🚀 Getting Started
 
